@@ -1,0 +1,9 @@
+[
+  {
+    "id": "Device Id",
+    "username": "dpmods",
+    "password": "dpmods",
+    "expiresAt": "2025-12-31",
+    "allowOffline": false
+  }
+]
