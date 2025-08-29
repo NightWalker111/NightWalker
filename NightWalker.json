@@ -19,15 +19,15 @@
     "id": "e3718f6054aa68ba",
     "username": "raka",
     "password": "12345",
-    "expiresAt": "2027-12-31",
+    "expiresAt": "2025-09-29",
     "allowOffline": false
   },
   
   {
-    "id": "f36cc64968b27ad7",
-    "username": "admin",
-    "password": "admin",
-    "expiresAt": "2027-12-31",
+    "id": "286fa0fbc9b15431",
+    "username": "acil",
+    "password": "12345",
+    "expiresAt": "2025-09-29",
     "allowOffline": false
   },
   
