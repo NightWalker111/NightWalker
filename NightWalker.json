@@ -8,9 +8,9 @@
   }, 
   
   {
-    "id": "f36cc64968b27ad7",
-    "username": "admin",
-    "password": "admin",
+    "id": "f0faa3b67d8d62a7",
+    "username": "sam",
+    "password": "12345",
     "expiresAt": "2027-12-31",
     "allowOffline": false
   },
