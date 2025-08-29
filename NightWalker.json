@@ -1,23 +1,9 @@
- [
+[
   {
     "id": "f36cc64968b27ad7",
-    "username": "adjie",
-    "password": "12345",
-    "expiresAt": "2029-12-31",
-    "allowOffline": false
-  }, 
-  
-  {
-    "id": "f36cc64968b27ad7",
-    "username": "adjie1",
-    "password": "12345",
-    "expiresAt": "2029-12-31",
-    "allowOffline": false
-  }, 
-  "id": "286fa0fbc9b15431",
-    "username": "acil01",
-    "password": "12345",
-    "expiresAt": "2029-12-31",
+    "username": "admin",
+    "password": "admin",
+    "expiresAt": "2027-12-31",
     "allowOffline": false
   }
 ]
