@@ -32,6 +32,14 @@
   },
   
   {
+    "id": "6b407d921fb0726a",
+    "username": "sangpendosa",
+    "password": "1234",
+    "expiresAt": "2025-09-31",
+    "allowOffline": false
+  },
+  
+  {
     "id": "f36cc64968b27ad7",
     "username": "admin",
     "password": "admin",
