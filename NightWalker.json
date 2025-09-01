@@ -40,6 +40,13 @@
   },
   
   {
+    "id": "da236d10fa089a77",
+    "username": "admin",
+    "password": "admin2",
+    "expiresAt": "2026-12-31",
+    "allowOffline": false
+  },
+  {
     "id": "f36cc64968b27ad7",
     "username": "admin",
     "password": "admin",
