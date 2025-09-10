@@ -82,6 +82,14 @@
     "allowOffline": false
   }, 
   {
+    "id": "bb419d80d0c429ca",
+    "username": "FrengkyDON",
+    "password": "123",
+    "expiresAt": "2025-10-10",
+    "allowOffline": false
+  },
+  
+  {
     "id": "f36cc64968b27ad7",
     "username": "admin",
     "password": "admin",
