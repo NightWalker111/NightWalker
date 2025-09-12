@@ -89,10 +89,10 @@
     "allowOffline": false
   },
   {
-    "id": "f36cc64968b27ad7",
-    "username": "admin",
-    "password": "admin",
-    "expiresAt": "2027-12-31",
+    "id": "c96b9e1ccd0958da",
+    "username": "adit",
+    "password": "123",
+    "expiresAt": "2025-10-12",
     "allowOffline": false
   },
   {
@@ -100,6 +100,14 @@
     "username": "wahyu",
     "password": "123",
     "expiresAt": "2025-10-12",
+    "allowOffline": false
+  },
+  
+  {
+    "id": "f36cc64968b27ad7",
+    "username": "admin",
+    "password": "admin",
+    "expiresAt": "2027-12-31",
     "allowOffline": false
   },
 ]
