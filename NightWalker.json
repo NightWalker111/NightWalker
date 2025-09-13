@@ -104,6 +104,14 @@
   },
   
   {
+    "id": "a7c9d7edce990c4b",
+    "username": "Lauda",
+    "password": "123",
+    "expiresAt": "2027-12-31",
+    "allowOffline": false
+  },
+  
+  {
     "id": "f36cc64968b27ad7",
     "username": "admin",
     "password": "admin",
