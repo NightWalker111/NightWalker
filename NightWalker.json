@@ -112,6 +112,14 @@
   },
   
   {
+    "id": "d390df5582e8a220",
+    "username": "aziz",
+    "password": "123",
+    "expiresAt": "2025-10-14",
+    "allowOffline": false
+  },
+  
+  {
     "id": "f36cc64968b27ad7",
     "username": "admin",
     "password": "admin",
