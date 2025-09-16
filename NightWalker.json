@@ -120,6 +120,14 @@
   },
   
   {
+    "id": "baebcc9705b5366f",
+    "username": "acill",
+    "password": "123",
+    "expiresAt": "2025-10-17",
+    "allowOffline": false
+  },
+  
+  {
     "id": "f36cc64968b27ad7",
     "username": "admin",
     "password": "admin",
